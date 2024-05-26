@@ -24,8 +24,8 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/yourusername/property-valuation-prediction.git
-   cd property-valuation-prediction
+   git clone https://github.com/sa1vador77/CourseWork.git
+   cd coursework
    ```
 
 2. Создайте виртуальное окружение и активируйте его:
