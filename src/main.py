@@ -13,7 +13,7 @@ from ml_handlers.processing import DataProceccing
 def predict_flat_price(
     rf_model: RandomForestRegressor, xgb_model: XGBRegressor, 
     city_center_coordinates: list[float], flat_params: dict[str: list[float]]
-    ) -> None:
+) -> None:
     """
     Предсказывает цену предложения квартиры на основе параметров квартиры и обученных моделей.
     
